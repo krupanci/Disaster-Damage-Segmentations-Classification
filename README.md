@@ -86,7 +86,7 @@ To improve model generalization and address class imbalance, a *custom augmentat
 #### -> Damage severity on polygons extracted from the segmentation model
 
 
-<img width="315" height="328" alt="image" src="https://github.com/user-attachments/assets/8f2ebad1-0600-4156-b07e-6f49501c4c66" /> <img width="314" height="321" alt="image" src="https://github.com/user-attachments/assets/552857c5-01ba-4bf9-99b0-1d80fa295d6d" />
+<img width="315" height="328" alt="image" src="https://github.com/user-attachments/assets/8f2ebad1-0600-4156-b07e-6f49501c4c66" /> <img width="314" height="321" alt="image" src="https://github.com/user-attachments/assets/552857c5-01ba-4bf9-99b0-1d80fa295d6d" />  => **mostly no damage**
 
 
 
