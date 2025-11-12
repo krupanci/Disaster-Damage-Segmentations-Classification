@@ -78,9 +78,17 @@ To improve model generalization and address class imbalance, a *custom augmentat
 
 ### 🖼️ Sample Predictions
 
-#### -> segmentation on pre damage disaster image
+#### -> Segmentation on pre damage disaster image
 
 <img width="308" height="320" alt="image" src="https://github.com/user-attachments/assets/8db42894-486c-4e6a-a255-45d20add090c" /> <img width="304" height="320" alt="image" src="https://github.com/user-attachments/assets/2fb77b81-18ce-4caf-9de8-1e7cc84d7cf6" />
+
+
+#### -> Damage severity on polygons extracted from the segmentation model
+
+
+<img width="315" height="328" alt="image" src="https://github.com/user-attachments/assets/8f2ebad1-0600-4156-b07e-6f49501c4c66" /> <img width="314" height="321" alt="image" src="https://github.com/user-attachments/assets/552857c5-01ba-4bf9-99b0-1d80fa295d6d" />
+
+
 
 
 
