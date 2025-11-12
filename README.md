@@ -78,12 +78,12 @@ To improve model generalization and address class imbalance, a *custom augmentat
 
 ### 🖼️ Sample Predictions
 
-Add your output images here for visualization, for example:
+#### -> segmentation on pre damage disaster image
 
-| Pre-Disaster | Post-Disaster | Segmentation Mask | Damage Level |
-|---------------|---------------|-------------------|---------------|
+<img width="308" height="320" alt="image" src="https://github.com/user-attachments/assets/8db42894-486c-4e6a-a255-45d20add090c" /> <img width="304" height="320" alt="image" src="https://github.com/user-attachments/assets/2fb77b81-18ce-4caf-9de8-1e7cc84d7cf6" />
 
-<img width="552" height="246" alt="image" src="https://github.com/user-attachments/assets/7643a1be-7bae-4876-b609-12939f96b6eb" />
+
+
 
 
 
