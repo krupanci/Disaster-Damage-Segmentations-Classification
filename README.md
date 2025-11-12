@@ -83,6 +83,11 @@ Add your output images here for visualization, for example:
 | Pre-Disaster | Post-Disaster | Segmentation Mask | Damage Level |
 |---------------|---------------|-------------------|---------------|
 
+<img width="552" height="246" alt="image" src="https://github.com/user-attachments/assets/7643a1be-7bae-4876-b609-12939f96b6eb" />
+
+
+
+
 
 ---
 
